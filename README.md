@@ -1,7 +1,19 @@
 # WaterFallDemo
 用recycleview实现的瀑布流
 
-License
+
+
+
+
+
+
+
+
+
+
+
+
+# License
 
 Copyright 2015 Google, Inc.
 
